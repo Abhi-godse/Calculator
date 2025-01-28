@@ -1,4 +1,4 @@
-# STELLAR-82ES: Advanced Scientific Calculator
+# Advanced Scientific Calculator
 
 ## Overview
 
@@ -21,11 +21,6 @@ STELLAR-82ES is a web-based advanced scientific calculator that mimics the funct
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-
-## External Resources
-
-- Google Fonts: [Orbitron](https://fonts.google.com/specimen/Orbitron) and [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) for typography
-- Google Material Icons: Used for the favicon
 
 ## Setup and Usage
 
