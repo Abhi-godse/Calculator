@@ -1,5 +1,7 @@
 # Advanced Scientific Calculator
 
+![Calculator Image](calci.png)
+
 ## Overview
 
 Web-based advanced scientific calculator that mimics the functionality and design of high-end scientific calculators. It provides a user-friendly interface with a wide range of mathematical operations, making it suitable for students, professionals, and anyone in need of complex calculations.
