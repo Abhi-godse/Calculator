@@ -1,6 +1,6 @@
 # Advanced Scientific Calculator
 
-![Calculator Image](Calculator.png)
+![Calculator Image](Calculator'.png)
 
 ## Overview
 
